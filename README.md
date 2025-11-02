@@ -37,7 +37,6 @@ Uses vectorized operations (NumPy/Pandas) for efficient analysis. Accessibility 
 
 ## Prerequisites
 
-- Node.js: `18.17.0`
 - Python 3.13 and Poetry for environment management
 
 ## Installation
@@ -45,25 +44,7 @@ Uses vectorized operations (NumPy/Pandas) for efficient analysis. Accessibility 
 ```bash
 git clone https://github.com/maxgalchenko/Python-for-Finance.git
 cd Python-for-Finance
-npm install
 ```
-
-## Quick Start
-
-```bash
-npm run dev
-# Production
-npm run build
-npm start
-```
-
-Open http://localhost:8888
-
-## Available Scripts
-
-- `npm run dev` – Not used in this repo (notebook-driven workflow)
-- `npm run build` – Not used in this repo
-- `npm test` – Not used in this repo
 
 ---
 
